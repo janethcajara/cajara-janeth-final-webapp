@@ -1,4 +1,4 @@
-# eStore - Ecommerce Website
+# eStore: A Web-Based Shoe E-Commerce Platform Management System
 
 A full-featured ecommerce website built with PHP and MySQL, featuring user authentication, product management, order processing, and an admin dashboard with analytics.
 
