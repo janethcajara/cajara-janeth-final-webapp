@@ -134,23 +134,6 @@ ecommerce/
 - **products_tbl**: Product catalog (product_id, name, description, price, category, image, etc.)
 - **orders_tbl**: Order records (order_id, user_id, total_amount, status, order_date, etc.)
 - **categories_tbl**: Product categories (category_id, name, description)
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support or questions, please contact the development team or create an issue in the repository.
-
----
-
-**Note**: This is a basic ecommerce implementation. For production use, additional security measures, payment gateway integration, and testing should be implemented.
+  
+### Cajara, Janeth M.
+### BSIS-3A
